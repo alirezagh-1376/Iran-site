@@ -27,7 +27,7 @@ section{
 
 @font-face {
     font-family: Poppins;
-    src: url('../src/Assets/Poppins-Regular.ttf');
+    src: url('../src/Assests/Poppins-Regular.ttf');
 }
 /* utilities */
 .d-flex{
