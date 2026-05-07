@@ -1,6 +1,6 @@
 import"./about.css";
-import ali from '../../Assets/images/about.jpg'
 function about(){
+  let ali =  '../../Assets/images/about.jpg';
     return(
 <section id="about">
       <div className="about">
