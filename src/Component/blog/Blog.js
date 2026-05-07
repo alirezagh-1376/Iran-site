@@ -1,11 +1,11 @@
 import './Blog.css'
 import BlogItem from './BlogItem';
-import blogImg1 from '../../Assets/images/post-1.jpg';
-import blogImg2 from '../../Assets/images/post-2.jpg';
-import blogImg3 from '../../Assets/images/post-3.jpg';
 
 function Blog(){
-    let blogs=[
+  let  blogImg1 = '../../Assets/images/post-1.jpg';
+  let blogImg2 = '../../Assets/images/post-2.jpg';
+  let blogImg3 = '../../Assets/images/post-3.jpg';
+  let blogs=[
         {
             blogImg : blogImg1,
             blogTitle :'post title1',
